@@ -1,0 +1,2 @@
+# thu_tushin_2026_Practice_of_Software
+2026年　応用プログラミング演習／ソフトウェア演習
